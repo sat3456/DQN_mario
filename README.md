@@ -1,2 +1,5 @@
 # DQN_mario
 DQNでマリオをColaboratoryで学習させる
+
+keras-rsとgym_super_mario_brosを使いColaboratoryで簡単に学習させることができます。
+mario_DQN.ipynbを開いてcolabで開くを押すとcolaboratoryを開くことができ、でできたのをコピーして使用してください。
